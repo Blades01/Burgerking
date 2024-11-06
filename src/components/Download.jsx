@@ -1,5 +1,5 @@
 import phone from "../images/phone.png";
-import Playstore from "../images/PlayStore.jpg";
+import Playstore from "../images/playStore.jpg";
 import Appstore from "../images/Appstore.jpg";
 
 export const Download = () => {
