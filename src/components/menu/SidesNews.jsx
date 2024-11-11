@@ -1,11 +1,11 @@
-import PlantainRegularCubes from "../../assets/Plantain-Cubes-Regular-1024x1024.png";
-import PotatoCubes from "../../assets/Potato-Cubes-Regular-1024x1024.png";
-import YamFries from "../../assets/Yam-Fries-Regular-1024x1024.png";
-import ChickenWings from "../../assets/chicken-wings-1024x659.jpg";
-import ChiliCheese from "../../assets/chili-cheese-1024x659.jpg";
-import ChickenNuggets from "../../assets/chicken-nuggets-1024x659.jpg";
-import OnionRings from "../../assets/onion-rings-1024x659.jpg";
-import Fries from "../../assets/fries-1024x659.jpg";
+import PlantainRegularCubes from "../../images/Plantain-Cubes-Regular-1024x1024.png";
+import PotatoCubes from "../../images/Potato-Cubes-Regular-1024x1024.png";
+import YamFries from "../../images/Yam-Fries-Regular-1024x1024.png";
+import ChickenWings from "../../images/chicken-wings-1024x659.jpg";
+import ChiliCheese from "../../images/chili-cheese-1024x659.jpg";
+import ChickenNuggets from "../../images/chicken-nuggets-1024x659.jpg";
+import OnionRings from "../../images/onion-rings-1024x659.jpg";
+import Fries from "../../images/fries-1024x659.jpg";
 import { MenuNewsCard } from "./MenuNewsCard";
 
 export const SidesNews = () => {

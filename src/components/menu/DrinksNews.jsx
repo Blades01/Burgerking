@@ -1,6 +1,6 @@
-import EvaWater from "../../assets/eva-water-1024x659.jpg";
-import Sprite from "../../assets/sprite-1024x659.jpg";
-import Coke from "../../assets/coke-1024x659.jpg";
+import EvaWater from "../../images/eva-water-1024x659.jpg";
+import Sprite from "../../images/sprite-1024x659.jpg";
+import Coke from "../../images/coke-1024x659.jpg";
 import { MenuNewsCard } from "./MenuNewsCard";
 
 export const DrinksNews = () => {

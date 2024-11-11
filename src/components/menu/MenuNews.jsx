@@ -1,13 +1,13 @@
-import WhooperSandwich from "../../assets/Whopper-Sandw-1024x659.jpg";
-import SteakHouse from "../../assets/steakhouses-1024x659.jpg";
-import BigKing from "../../assets/big-king-middle-bun-1024x659.jpg";
-import DoubleWhooper from "../../assets/769_DOUBLE-WHOPPER.jpg";
-import DoubleSteakHouse from "../../assets/double-steakhouse-wi-1024x659.jpg";
-import BigKingXXlW from "../../assets/big-king-xxlw-1024x659.jpg";
-import WhooperJr from "../../assets/whopper-jnr-1024x659.jpg";
-import CheeseBurger from "../../assets/cheeseburger-sandwich-1024x659.jpg";
-import Hamburger from "../../assets/hamburger-1024x659.jpg";
-import DoubleCheeseBurger from "../../assets/double-cheese-burger-1024x659.jpg";
+import WhooperSandwich from "../../images/Whopper-Sandw-1024x659.jpg";
+import SteakHouse from "../../images/steakhouses-1024x659.jpg";
+import BigKing from "../../images/big-king-middle-bun-1024x659.jpg";
+import DoubleWhooper from "../../images/769_DOUBLE-WHOPPER.jpg";
+import DoubleSteakHouse from "../../images/double-steakhouse-wi-1024x659.jpg";
+import BigKingXXlW from "../../images/big-king-xxlw-1024x659.jpg";
+import WhooperJr from "../../images/whopper-jnr-1024x659.jpg";
+import CheeseBurger from "../../images/cheeseburger-sandwich-1024x659.jpg";
+import Hamburger from "../../images/hamburger-1024x659.jpg";
+import DoubleCheeseBurger from "../../images/double-cheese-burger-1024x659.jpg";
 import { MenuNewsCard } from "./MenuNewsCard";
 
 export const MenuNews = () => {

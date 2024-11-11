@@ -1,6 +1,6 @@
-import OriginalChicken1 from "../../assets/original-chicken-1-1024x659.jpg";
-import KingFillet from "../../assets/King-Fillet-.png";
-import CrispyChicken from "../../assets/crispy-chicken-main-1024x659.jpg";
+import OriginalChicken1 from "../../images/original-chicken-1-1024x659.jpg";
+import KingFillet from "../../images/King-Fillet-.png";
+import CrispyChicken from "../../images/crispy-chicken-main-1024x659.jpg";
 import { MenuNewsCard } from "./MenuNewsCard";
 
 export const CBNews = () => {

@@ -1,7 +1,7 @@
-import CaramelSundae from "../../assets/caramel-sundae-1024x659.jpg";
-import StrawberrySundae from "../../assets/strawberry-sundae-1024x659.jpg";
-import ChocolateSundae from "../../assets/chocolate-sundae-1024x659.jpg";
-import KitKatFusion from "../../assets/kit-kat-fusion-1024x659.jpg";
+import CaramelSundae from "../../images/caramel-sundae-1024x659.jpg";
+import StrawberrySundae from "../../images/strawberry-sundae-1024x659.jpg";
+import ChocolateSundae from "../../images/chocolate-sundae-1024x659.jpg";
+import KitKatFusion from "../../images/kit-kat-fusion-1024x659.jpg";
 import { MenuNewsCard } from "./MenuNewsCard";
 
 export const DessertsNews = () => {
