@@ -2,7 +2,7 @@ import React from "react";
 import { Link as Link1 } from "react-router-dom";
 import { Link } from "react-scroll"; // Rename Scroll's Link
 import logo from "../../assets/Burger-King-logo.svg";
-import ActiveLastBreadcrumb from "../Order/ActiveLastBreadCrumb.jsx";
+import ActiveLastBreadcrumb from "../order/ActiveLastBreadCrumb.jsx";
 import { Footer } from "../../components/footer";
 import { MenuNews } from "./MenuNews";
 import { CBNews } from "./CBNews";
